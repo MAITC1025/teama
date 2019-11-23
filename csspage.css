@@ -3,6 +3,14 @@ body {
 }
 
 h1 {
-  color: navy;
-  margin-left: 20px;
+  text-align: center;
+}
+
+
+p {
+  text-indent: 50px;
+}
+
+p {
+  font-family: "Times New Roman", Times, serif;
 }
