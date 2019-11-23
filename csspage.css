@@ -1,16 +1,20 @@
-body {
-  background-color: lightblue;
-}
-
 h1 {
   text-align: center;
 }
 
 
-p {
-  text-indent: 50px;
+h2 {
+  text-align: center;
 }
 
+h3 {
+  text-align: center;
+}
+
+
 p {
+
   font-family: "Times New Roman", Times, serif;
+  
+  text-indent: 50px;
 }
